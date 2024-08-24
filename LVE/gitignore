@@ -1,0 +1,44 @@
+# Ignore build directories
+/build
+/Build
+/bin
+/obj
+/out
+/Debug
+/Release
+
+# Ignore executable and binary files
+*.exe
+*.out
+*.app
+*.so
+*.dylib
+
+# Ignore object files and static library files
+*.o
+*.obj
+*.a
+*.lib
+
+# Ignore Vulkan specific files
+*.spv
+*.spv.txt
+
+# Ignore editor and IDE files
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
+
+# Ignore macOS-specific files
+.DS_Store
+
+# Ignore Windows-specific files
+Thumbs.db
+desktop.ini
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.log
