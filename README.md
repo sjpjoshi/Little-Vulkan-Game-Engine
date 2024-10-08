@@ -15,9 +15,6 @@ This project is soley for education. I made this to learn how modern graphics AP
 ## Showcase
 Here are some examples of the engine's features in action:
 
-## Note about the examples
-I used a .MOV to .GIF online converter to showcase the examples, I have no idea why they are purple but they are. If someone knows how to properly make .GIF files please reach out to me
-
 ### 1. 3D Transformations and Model Loading
 *Example of loading a 3D model and applying transformations (translation, rotation, scaling)*
 ![3D Model Loading](https://github.com/sjpjoshi/Little-Vulkan-Game-Engine/blob/main/Example1.gif)
