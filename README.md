@@ -52,6 +52,3 @@ I used a .MOV to .GIF online converter to showcase the examples, I have no idea 
 - [ ] Improve performance and optimize memory usage.
 - [ ] Add support for additional model formats.
 - [ ] Rigidbody, and other physics are soon to come
-
-## License
-This project is licensed under the MIT License.
